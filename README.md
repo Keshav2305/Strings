@@ -20,7 +20,7 @@ Enter Name and Surname of the user and get the length of the Name and Surname wi
 7. Run another loop for get the initials of the name and surname.
 8. Print the Initials.
 ## Explainantion
-The '''cin.get(int value)''' takes in integer value number of characters including space and special characters.
+The ```cin.get(int value)``` takes in integer value number of characters including space and special characters.
 The length can be found by running loop for every character of string until NULL (/0) shows up.
 Initial of the name can be found by taking the first character of the array and Surname by finding the space between the namr and surname and the next character is the initial of the surname.
 ## Output Screenshot
