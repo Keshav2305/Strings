@@ -24,3 +24,4 @@ The ```cin.get(int value)``` takes in integer value number of characters includi
 The length can be found by running loop for every character of string until NULL (/0) shows up.
 Initial of the name can be found by taking the first character of the array and Surname by finding the space between the namr and surname and the next character is the initial of the surname.
 ## Output Screenshot
+![Screenshot of the output]()
